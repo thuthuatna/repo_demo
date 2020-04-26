@@ -1,2 +1,4 @@
-login screeni
+login screen
 echo "nhanh1"
+echo "nhanh2"
+
